@@ -1,0 +1,28 @@
+{
+  "name": "weibo_bellamusic",
+  "version": "1.0.0",
+  "description": "爬取姚贝娜微博数据",
+  "main": "request_bellamusic",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovesasha/weibo_bellamusic.git"
+  },
+  "keywords": [
+    "nodejs",
+    "weibo",
+    "bella"
+  ],
+  "author": "sasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovesasha/weibo_bellamusic/issues"
+  },
+  "homepage": "https://github.com/lovesasha/weibo_bellamusic#readme",
+  "devDependencies": {
+    "bluebird": "^3.4.6",
+    "cheerio": "^0.22.0"
+  }
+}
